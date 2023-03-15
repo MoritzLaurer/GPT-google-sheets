@@ -21,4 +21,4 @@ This repository was created by Moritz Laurer. If it is useful for you, give it a
 
 
 ## License
-The script is licensed under the permissive ["Unlicense" license](https://github.com/MoritzLaurer/ChatGPT-google-sheets/blob/master/LICENSE), so you are free to use it for pretty much any non-commercial or commercial purpose. Note that I have added a call to the OpenAI moderation API to prevent misuse of the model. 
+The script is licensed under the permissive [Responsible AI End-User License v0.1 (RAIL)](https://www.licenses.ai/ai-licenses). You are free to use it for pretty much any non-commercial or commercial purpose, but it cannot be used for activities such as surveillance or criminal activities. Note that I have added a call to the OpenAI moderation API to prevent misuse of the model. 
