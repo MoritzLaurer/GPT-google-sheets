@@ -2,6 +2,9 @@
 
 This repository provides a custom function for Google Sheets '=GPT()' that enables you to use ChatGPT without any coding knowledge. With this function, you can turn large amounts of unstructured text into structured data in seconds. 
 
+https://user-images.githubusercontent.com/41862082/225295311-d851c1a1-2a3a-411b-86c7-f511de629880.mp4
+
+
 ## Example sheet and instructions
 Example use-cases with instructions and example data are available in this Google Sheet: 
 https://docs.google.com/spreadsheets/d/1_om1a0wv6boajKroaAlupayKPM32Bm1M7HjZ98XcDRA/edit?usp=sharing
