@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1_om1a0wv6boajKroaAlupayKPM32Bm1M7HjZ98Xc
 
 You can use the function in two main ways: 
 1. You can create a copy of the sheet above and directly run the function on the example data. Open the link and in the menu bar click > File > Make a copy. You can then run the function in your own copy of the sheet. 
-2. You can copy the script `ChatGPT-sheets.gs` from this repository and copy it in any of your own Google Sheets. In the menu bar of your own sheet, click Extensions > Apps Script > Add a new file and past the script. 
+2. You can copy the `ChatGPT-sheets.gs` script from this repository and paste it in any of your own Google Sheets. In the menu bar of your own sheet, click Extensions > Apps Script > Add a new file and paste the script. 
 
 Note that you need to add your own OpenAI API key to the 'API-key' sheet. If you use the function in your own scripts, create a new sheet called "API-key" and copy your API key in cell A3 (see the example script). If you do not have an OpenAI API key, you need to create an account and a new API key [here](https://platform.openai.com/account/api-keys). The script uses the gpt-3.5-turbo model (ChatGPT), which costs 0.002 per 1000 tokens. For details on pricing, see [here](https://openai.com/pricing).
 
