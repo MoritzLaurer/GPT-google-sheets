@@ -23,6 +23,7 @@ This repository provides custom functions for Google Sheets that enables you to 
 
 https://user-images.githubusercontent.com/41862082/225295311-d851c1a1-2a3a-411b-86c7-f511de629880.mp4
 
+Note that the `=GPT()` function is depricated. Use `=CHATGPT()` or `=GPT4()` instead.
 
 ## Example sheet and usage instructions
 Example use-cases with instructions and example data are available in this Google Sheet: 
